@@ -1,7 +1,7 @@
 mysite
 ======
-My html site. for local testing, go in to the cloned directory, then
+My html site. for local testing, go in to the cloned directory,
 
-python -m SimpleHTTPServer 80
+python3 -m http.server 80
 
 
