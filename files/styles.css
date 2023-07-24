@@ -1,0 +1,29 @@
+
+#main-container {
+	background: #EEEEEE;
+	padding-bottom: 5px;
+	padding-top: 30px;
+}
+
+@media (min-width: 1200px) {
+    .container{
+        max-width: 800px;
+    }
+}
+
+h4{
+	color:#CC5200;
+}
+
+element.style {
+    padding-left: 0px;
+    margin-left: 40px;
+}
+
+.wrap {
+    width: 100%;
+}
+
+
+
+
